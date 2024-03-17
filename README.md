@@ -1,6 +1,13 @@
-# Windows Initialization and Software Installation Script
+# Securely Copy Logs from Linux Host
 
 ## Requirements
+
+### Target System
+- Linux Host with SSH Enabled
+
+### Source System
+- Python 3 Installed on Source Device
+- The paramiko Library Installed
 
 ## Usage
 
